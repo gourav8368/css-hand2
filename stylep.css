@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    body{
+        background-image: url(./download.jpg);
+        background-size:cover;
+        border: 10px ridge lightgreen;
+        height: 1000;
+    
+    }
+    .parent{
+        width: 95%;
+        margin: 20px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;  
+    }
+    .child{
+        background-color: black;
+        color: white;
+        border: 5px solid red;
+        font-size: 30px; 
+        font-style: italic;
+        border-radius: 40px;
+        margin-left: 10px;
+        width: 25%;
+        height: 100px;
+    }
+    .child9{
+        width: 20%;
+        padding-left: 20px;
+        width: 400px;
+    }
+    .child2{
+        width: 400px;
+        height: 40px;
+        padding-top: 30px;
+        padding-left: 80px;
+        margin-left: -400px;
+        margin-top: 20px;
+    }
+    .child3{
+        padding-left: 40px;
+        padding-top: 20px;
+        height: 150px;
+        width: 300px;
+        margin-top: 20px;
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .parent2{ 
+        display: flex;
+        justify-content: space-evenly;
+        
+    }
+    span{
+        color: red;
+        font-size: 25px;
+    }
+    form{ 
+         width: 400px;
+        height: auto;
+        border: 10px dashed red;
+        text-align: center;
+        padding-bottom: 50px;
+        font-size: 20px;
+        justify-content: center;
+        display: inline-block;
+        line-height: 30px;
+    } 
+    input{
+        text-align: center;
+    
+    }
+    label{
+        color: red;
+    }
+    .child10{
+        color: black;
+        text-align: center;
+        font-style: italic;
+        font-weight: bold;
+        text-decoration: underline;
+        /* padding-top: 120px; */
+        line-height: 45px;
+        font-size: 25px;
+        width: 450px;
+        height: 450px;
+        border: 5px solid rgb(119, 109, 109);
+        border-radius: 50%; 
+        background-color: aqua;
+        /* margin-top: 250px; */
+    }
+    child-A  p{
+        text-align: center;
+        padding-top: 300px;
+        font-size: 18px;
+        font-style: italic;
+        font-weight: bold;
+        text-decoration: underline;
+    } 
+    .ch{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 390px;
+        width: 470px;
+        height: 70px;
+        padding bottom: 10px;
+        padding top: 10px;
+        
+    }
+    .parent5{
+        display: flex;
+        justify-content:space-between;
+        width: 98%;
+        flex-wrap: wrap;
+
+
+
+
+    }
+    .child1{
+        border: 5px solid green;
+        width: 350px;
+        height: 220px;
+        gap: 10px;
+        display: inline-block;
+        border-radius: 30px;
+        font-weight: bold;
+        padding: 25px 10px
+        30px;
+        text-align: center;
+        
+
+    }
+    ul li{
+    }
